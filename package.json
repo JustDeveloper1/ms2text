@@ -1,6 +1,6 @@
 {
   "name": "ms2text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert time in milliseconds to a human-readable string.",
   "main": "index.js",
   "repository": {
@@ -13,5 +13,6 @@
   "bugs": {
     "url": "https://github.com/JustDeveloper1/ms2text/issues"
   },
-  "homepage": "https://github.com/JustDeveloper1/ms2text#readme"
+  "homepage": "https://github.com/JustDeveloper1/ms2text#readme",
+  "unpkg": "./index.min.js"
 }

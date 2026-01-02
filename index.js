@@ -40,7 +40,7 @@ Convert time in milliseconds to a human-readable string.
 
 (function (root, factory) {
 
-    const version = '1.0.0';
+    const version = '1.0.1';
 
     if (typeof define === 'function' && define.amd) {
         define([], factory);
